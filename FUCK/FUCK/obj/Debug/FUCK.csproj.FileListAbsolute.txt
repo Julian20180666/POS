@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\POS\FUCK\FUCK\bin\Debug\FUCK.exe.config
+C:\Users\User\Desktop\POS\FUCK\FUCK\bin\Debug\FUCK.exe
+C:\Users\User\Desktop\POS\FUCK\FUCK\bin\Debug\FUCK.pdb
+C:\Users\User\Desktop\POS\FUCK\FUCK\obj\Debug\FUCK.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\POS\FUCK\FUCK\obj\Debug\FUCK.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\POS\FUCK\FUCK\obj\Debug\FUCK.exe
+C:\Users\User\Desktop\POS\FUCK\FUCK\obj\Debug\FUCK.pdb
