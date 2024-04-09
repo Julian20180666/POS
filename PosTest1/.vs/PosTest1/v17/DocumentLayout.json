@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{523B1FBA-9B55-4233-9263-1210A7757BAC}|PosTest1\\PosTest1.csproj|solutionrelative:postest1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{523B1FBA-9B55-4233-9263-1210A7757BAC}|PosTest1\\PosTest1.csproj|c:\\users\\mesut\\onedrive\\desktop\\mesut_branch\\pos\\postest1\\postest1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{523B1FBA-9B55-4233-9263-1210A7757BAC}|PosTest1\\PosTest1.csproj|C:\\Users\\mesut\\OneDrive\\Desktop\\Mesut_Branch\\POS\\PosTest1\\postest1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{523B1FBA-9B55-4233-9263-1210A7757BAC}|PosTest1\\PosTest1.csproj|solutionrelative:postest1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,6 +31,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mesut\\OneDrive\\Desktop\\Mesut_Branch\\POS\\PosTest1\\PosTest1\\Program.cs",
+              "RelativeDocumentMoniker": "PosTest1\\Program.cs",
+              "ToolTip": "C:\\Users\\mesut\\OneDrive\\Desktop\\Mesut_Branch\\POS\\PosTest1\\PosTest1\\Program.cs",
+              "RelativeToolTip": "PosTest1\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:22:54.727Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -46,21 +59,7 @@
               "RelativeToolTip": "PosTest1\\Class1.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T19:23:37.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mesut\\OneDrive\\Desktop\\Mesut_Branch\\POS\\PosTest1\\PosTest1\\Program.cs",
-              "RelativeDocumentMoniker": "PosTest1\\Program.cs",
-              "ToolTip": "C:\\Users\\mesut\\OneDrive\\Desktop\\Mesut_Branch\\POS\\PosTest1\\PosTest1\\Program.cs",
-              "RelativeToolTip": "PosTest1\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T19:22:54.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T19:23:37.326Z"
             }
           ]
         }
