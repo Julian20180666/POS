@@ -10,10 +10,7 @@ namespace PosTest1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine( Class1.EnglischBeiBehan );
-            Console.WriteLine( Class1.EnglischBeiBehan );
-
-            Console.ReadLine();
+         
         }
 
       
