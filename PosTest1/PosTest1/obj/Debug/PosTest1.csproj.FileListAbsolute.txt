@@ -1,0 +1,7 @@
+C:\Users\mesut\OneDrive\Desktop\Mesut_Branch\POS\PosTest1\PosTest1\bin\Debug\PosTest1.exe.config
+C:\Users\mesut\OneDrive\Desktop\Mesut_Branch\POS\PosTest1\PosTest1\bin\Debug\PosTest1.exe
+C:\Users\mesut\OneDrive\Desktop\Mesut_Branch\POS\PosTest1\PosTest1\bin\Debug\PosTest1.pdb
+C:\Users\mesut\OneDrive\Desktop\Mesut_Branch\POS\PosTest1\PosTest1\obj\Debug\PosTest1.csproj.AssemblyReference.cache
+C:\Users\mesut\OneDrive\Desktop\Mesut_Branch\POS\PosTest1\PosTest1\obj\Debug\PosTest1.csproj.CoreCompileInputs.cache
+C:\Users\mesut\OneDrive\Desktop\Mesut_Branch\POS\PosTest1\PosTest1\obj\Debug\PosTest1.exe
+C:\Users\mesut\OneDrive\Desktop\Mesut_Branch\POS\PosTest1\PosTest1\obj\Debug\PosTest1.pdb
